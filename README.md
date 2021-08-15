@@ -1,2 +1,2 @@
 # MCDTutorials
-How to get started with Mechatronics Concept Designer
+Getting started with Mechatronics Concept Designer
